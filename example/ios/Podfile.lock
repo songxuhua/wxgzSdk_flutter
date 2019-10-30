@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - wxgzsdktest (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - wxgzsdktest (from `.symlinks/plugins/wxgzsdktest/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  wxgzsdktest:
+    :path: ".symlinks/plugins/wxgzsdktest/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  wxgzsdktest: f1620558236ba6a0c222c4c18f96c74c27f5b3fd
+
+PODFILE CHECKSUM: 7fb83752f59ead6285236625b82473f90b1cb932
+
+COCOAPODS: 1.7.0
